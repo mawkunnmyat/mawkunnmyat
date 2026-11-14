@@ -71,11 +71,6 @@ on_github:   since 2017
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mawkunnmyat&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mawkunnmyat&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=mawkunnmyat&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub streak" />
 </p>
 
