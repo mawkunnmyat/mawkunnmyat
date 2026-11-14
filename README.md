@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Maw%20Kunn%20Myat&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Flutter%20%E2%80%A2%20WordPress%20%E2%80%A2%20Automation&descAlignY=58&descSize=18" alt="Maw Kunn Myat — Software Engineer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A5C12,50:B8860B,100:D4AF37&height=200&section=header&text=Maw%20Kunn%20Myat&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Flutter%20%E2%80%A2%20WordPress%20%E2%80%A2%20Automation&descAlignY=58&descSize=18" alt="Maw Kunn Myat — Software Engineer" width="100%" />
 </p>
 
 <p align="center">
@@ -106,5 +106,5 @@ I'm open to collaborating on **Flutter**, **WordPress / WooCommerce** and **auto
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=110&section=footer" alt="" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,50:B8860B,100:7A5C12&height=110&section=footer" alt="" width="100%" />
 </p>
