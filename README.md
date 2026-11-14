@@ -71,6 +71,20 @@ on_github:   since 2017
 ## 📊 GitHub stats
 
 <p align="center">
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" width="49%" />
+  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time" width="49%" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" width="49%" />
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most commit language" width="49%" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=mawkunnmyat&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub streak" />
 </p>
 
