@@ -49,7 +49,7 @@ on_github:   since 2017
 
 <p align="center"><a href="https://poeeiphyu.vercel.app/"><b>poeeiphyu.vercel.app</b></a> — selected work, experience and a 3D-enhanced intro.</p>
 
-> 📱 Earlier Flutter apps **iRoute** (2017 internship project) and **Kathryn University** were published on Google Play and are no longer listed there. Details are in the portfolio.
+> 📱 Earlier Flutter apps were published on Google Play and are no longer listed there; both are still available on APKPure: [**iRoute**](https://apkpure.com/iroute/com.iroute) (2017 internship project) · [**Kathryn University**](https://apkpure.com/kathryn-university/com.kathrynuniversity.app).
 
 ## 🛠️ Tech stack
 
