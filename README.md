@@ -1,9 +1,10 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A5C12,50:B8860B,100:D4AF37&height=200&section=header&text=Maw%20Kunn%20Myat&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Flutter%20%E2%80%A2%20WordPress%20%E2%80%A2%20Automation&descAlignY=58&descSize=18" alt="Maw Kunn Myat — Software Engineer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A5C12,50:B8860B,100:D4AF37&height=200&section=header&text=Maw%20Kunn%20Myat&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Senior%20Software%20Engineer%20%E2%80%A2%20WordPress%20Architect%20%E2%80%A2%20Flutter&descAlignY=58&descSize=18" alt="Maw Kunn Myat — Senior Software Engineer, WordPress Architect, Flutter" width="100%" />
 </p>
 
 <p align="center">
+  <a href="https://poeeiphyu.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-poeeiphyu.vercel.app-B8860B?style=for-the-badge&logo=vercel&logoColor=white" alt="Live portfolio" /></a>
   <a href="https://www.linkedin.com/in/mapoeeiphyu/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.chuelay.com"><img src="https://img.shields.io/badge/Website-chuelay.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://github.com/mawkunnmyat?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
@@ -19,11 +20,11 @@
 
 ## 👋 About me
 
-I'm a **Software Engineer at [T-WORK SYSTEM Co., Ltd.](https://www.chuelay.com)** in Myanmar 🇲🇲.
+I'm a **Senior Software Engineer · WordPress Architect · Flutter developer at [T-WORK SYSTEM Co., Ltd.](https://www.chuelay.com)** in Myanmar 🇲🇲.
 I build **cross-platform mobile apps**, **WordPress / WooCommerce backends** and the **tooling around them** — from the Flutter client to the REST API, load tests and automation scripts.
 
 ```yaml
-role:        Software Engineer
+role:        Senior Software Engineer · WordPress Architect
 company:     T-WORK SYSTEM Co., Ltd.
 location:    Myanmar
 focus:       [Flutter apps, WordPress REST APIs, WooCommerce, AI-assisted tools]
@@ -34,10 +35,21 @@ on_github:   since 2017
 ## 🎯 What I'm working on
 
 - 📱 **Flutter commerce & rewards apps** backed by custom **WordPress REST APIs**
+- 🌐 **Client websites** on WordPress — e.g. [DKM ECO](https://www.dkmeco.com/en/), delivered fully remotely
 - 🛍️ **WooCommerce themes** and storefronts with a modern UI
 - 🤖 **LLM-powered tools (Gemini)** for real workflows — like automated exam marking
 - ⚡ **Performance testing with k6** before every release
 - 🧰 **Python automation** for everyday PDF and image work
+
+## 🌐 Live portfolio
+
+<p align="center">
+  <a href="https://poeeiphyu.vercel.app/"><img src="https://poeeiphyu.vercel.app/images/og-cover.jpg" alt="Portfolio preview — poeeiphyu.vercel.app" width="80%" /></a>
+</p>
+
+<p align="center"><a href="https://poeeiphyu.vercel.app/"><b>poeeiphyu.vercel.app</b></a> — selected work, experience and a 3D-enhanced intro.</p>
+
+> 📱 Earlier Flutter apps **iRoute** (2017 internship project) and **Kathryn University** were published on Google Play and are no longer listed there. Details are in the portfolio.
 
 ## 🛠️ Tech stack
 
